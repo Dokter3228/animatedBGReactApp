@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/animatedBGReactApp/static/css/main.ef78b162.css",
+    "main.js": "/animatedBGReactApp/static/js/main.de7fe71f.js",
+    "static/js/787.6be3f59e.chunk.js": "/animatedBGReactApp/static/js/787.6be3f59e.chunk.js",
+    "static/media/axios.cjs": "/animatedBGReactApp/static/media/axios.1625a2be6a566dade312.cjs",
+    "index.html": "/animatedBGReactApp/index.html",
+    "main.ef78b162.css.map": "/animatedBGReactApp/static/css/main.ef78b162.css.map",
+    "main.de7fe71f.js.map": "/animatedBGReactApp/static/js/main.de7fe71f.js.map",
+    "787.6be3f59e.chunk.js.map": "/animatedBGReactApp/static/js/787.6be3f59e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef78b162.css",
+    "static/js/main.de7fe71f.js"
+  ]
+}
